@@ -2,7 +2,7 @@
 I have debugged the issues with this web application and added some features and pages.
 
 ## Demo video
-[![Video Demo](https://img.youtube.com/vi/SV6co-cT-JM/0.jpg)](https://www.youtube.com/watch?v=SV6co-cT-JM)
+[![Video Demo](https://img.youtube.com/vi/SV6co-cT-JM/0.jpg)](https://youtu.be/SV6co-cT-JM)
 
 If you are looking for a developer to debug or create your Full Stack Web project click on any of the following links below for a free consultation and give your ideas life.
 
